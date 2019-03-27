@@ -1,6 +1,4 @@
 numpy
+scipy
 seaborn
 pandas
-openturns
-chaospy
-uncertainpy
