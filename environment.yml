@@ -1,0 +1,9 @@
+name: mc-playground
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - seaborn
+  - pandas
+  - openturns
+  - chaospy

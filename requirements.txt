@@ -1,0 +1,6 @@
+numpy
+seaborn
+pandas
+openturns
+chaospy
+uncertainpy
